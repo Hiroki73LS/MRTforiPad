@@ -13,6 +13,24 @@
 		4A5D3F0A2902CAE0007069DD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5D3EF82902CADE007069DD /* ContentView.swift */; };
 		4A5D3F0B2902CAE0007069DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A5D3EF92902CAE0007069DD /* Assets.xcassets */; };
 		4A5D3F0C2902CAE0007069DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A5D3EF92902CAE0007069DD /* Assets.xcassets */; };
+		4AB7F2B52902CDE50051849E /* StopWatchClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2B12902CDE40051849E /* StopWatchClass.swift */; };
+		4AB7F2B62902CDE50051849E /* StopWatchClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2B12902CDE40051849E /* StopWatchClass.swift */; };
+		4AB7F2B72902CDE50051849E /* SoundAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2B22902CDE40051849E /* SoundAlert.swift */; };
+		4AB7F2B82902CDE50051849E /* SoundAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2B22902CDE40051849E /* SoundAlert.swift */; };
+		4AB7F2B92902CDE50051849E /* FirstLaunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2B32902CDE50051849E /* FirstLaunch.swift */; };
+		4AB7F2BA2902CDE50051849E /* FirstLaunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2B32902CDE50051849E /* FirstLaunch.swift */; };
+		4AB7F2BB2902CDE50051849E /* StoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2B42902CDE50051849E /* StoreView.swift */; };
+		4AB7F2BC2902CDE50051849E /* StoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2B42902CDE50051849E /* StoreView.swift */; };
+		4AB7F2C02902CE0B0051849E /* Rireki.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2BD2902CE0B0051849E /* Rireki.swift */; };
+		4AB7F2C12902CE0B0051849E /* Rireki.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2BD2902CE0B0051849E /* Rireki.swift */; };
+		4AB7F2C22902CE0B0051849E /* View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2BE2902CE0B0051849E /* View.swift */; };
+		4AB7F2C32902CE0B0051849E /* View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2BE2902CE0B0051849E /* View.swift */; };
+		4AB7F2C42902CE0B0051849E /* RirekiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2BF2902CE0B0051849E /* RirekiView.swift */; };
+		4AB7F2C52902CE0B0051849E /* RirekiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB7F2BF2902CE0B0051849E /* RirekiView.swift */; };
+		4AD6B0352906B535004B051A /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 4AD6B0342906B535004B051A /* FirebaseAnalytics */; };
+		4AD6B04729097281004B051A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4AD6B04629097281004B051A /* GoogleService-Info.plist */; };
+		4AD6B04829097281004B051A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4AD6B04629097281004B051A /* GoogleService-Info.plist */; };
+		4AECB3C92906A95300CC62BC /* Pods_MultiRecTimerforiPad__iOS_.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AECB3C82906A95300CC62BC /* Pods_MultiRecTimerforiPad__iOS_.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +40,19 @@
 		4A5D3EFE2902CAE0007069DD /* MultiRecTimerforiPad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MultiRecTimerforiPad.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A5D3F042902CAE0007069DD /* MultiRecTimerforiPad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MultiRecTimerforiPad.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A5D3F062902CAE0007069DD /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		4A6186CC2903D0D20060FB82 /* MultiRecTimerforiPad (iOS).entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "MultiRecTimerforiPad (iOS).entitlements"; sourceTree = "<group>"; };
+		4AB7F2B12902CDE40051849E /* StopWatchClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StopWatchClass.swift; sourceTree = "<group>"; };
+		4AB7F2B22902CDE40051849E /* SoundAlert.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundAlert.swift; sourceTree = "<group>"; };
+		4AB7F2B32902CDE50051849E /* FirstLaunch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstLaunch.swift; sourceTree = "<group>"; };
+		4AB7F2B42902CDE50051849E /* StoreView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoreView.swift; sourceTree = "<group>"; };
+		4AB7F2BD2902CE0B0051849E /* Rireki.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rireki.swift; sourceTree = "<group>"; };
+		4AB7F2BE2902CE0B0051849E /* View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = View.swift; sourceTree = "<group>"; };
+		4AB7F2BF2902CE0B0051849E /* RirekiView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RirekiView.swift; sourceTree = "<group>"; };
+		4AB7F2C62902CFBE0051849E /* MultiRecTimerforiPad--iOS--Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "MultiRecTimerforiPad--iOS--Info.plist"; sourceTree = "<group>"; };
+		4AD6B04629097281004B051A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		4AECB3C82906A95300CC62BC /* Pods_MultiRecTimerforiPad__iOS_.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Pods_MultiRecTimerforiPad__iOS_.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5743D62868A113C9C537B81D /* Pods-MultiRecTimerforiPad (iOS).release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MultiRecTimerforiPad (iOS).release.xcconfig"; path = "Target Support Files/Pods-MultiRecTimerforiPad (iOS)/Pods-MultiRecTimerforiPad (iOS).release.xcconfig"; sourceTree = "<group>"; };
+		B1DEEDC96B232932FF204DD2 /* Pods-MultiRecTimerforiPad (iOS).debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MultiRecTimerforiPad (iOS).debug.xcconfig"; path = "Target Support Files/Pods-MultiRecTimerforiPad (iOS)/Pods-MultiRecTimerforiPad (iOS).debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +60,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AD6B0352906B535004B051A /* FirebaseAnalytics in Frameworks */,
+				4AECB3C92906A95300CC62BC /* Pods_MultiRecTimerforiPad__iOS_.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,20 +75,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3F8B386C100845D99D2D28AC /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B1DEEDC96B232932FF204DD2 /* Pods-MultiRecTimerforiPad (iOS).debug.xcconfig */,
+				5743D62868A113C9C537B81D /* Pods-MultiRecTimerforiPad (iOS).release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		4A5D3EF12902CADE007069DD = {
 			isa = PBXGroup;
 			children = (
+				4A6186CC2903D0D20060FB82 /* MultiRecTimerforiPad (iOS).entitlements */,
+				4AB7F2C62902CFBE0051849E /* MultiRecTimerforiPad--iOS--Info.plist */,
 				4A5D3EF62902CADE007069DD /* Shared */,
 				4A5D3F052902CAE0007069DD /* macOS */,
 				4A5D3EFF2902CAE0007069DD /* Products */,
+				3F8B386C100845D99D2D28AC /* Pods */,
+				6C1F5808E26DD3C5D8C55F76 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
 		4A5D3EF62902CADE007069DD /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				4AD6B04629097281004B051A /* GoogleService-Info.plist */,
 				4A5D3EF72902CADE007069DD /* MultiRecTimerforiPadApp.swift */,
 				4A5D3EF82902CADE007069DD /* ContentView.swift */,
+				4AB7F2BD2902CE0B0051849E /* Rireki.swift */,
+				4AB7F2BF2902CE0B0051849E /* RirekiView.swift */,
+				4AB7F2B42902CDE50051849E /* StoreView.swift */,
+				4AB7F2B22902CDE40051849E /* SoundAlert.swift */,
+				4AB7F2B12902CDE40051849E /* StopWatchClass.swift */,
+				4AB7F2B32902CDE50051849E /* FirstLaunch.swift */,
+				4AB7F2BE2902CE0B0051849E /* View.swift */,
 				4A5D3EF92902CAE0007069DD /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -78,6 +132,14 @@
 			path = macOS;
 			sourceTree = "<group>";
 		};
+		6C1F5808E26DD3C5D8C55F76 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4AECB3C82906A95300CC62BC /* Pods_MultiRecTimerforiPad__iOS_.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -85,15 +147,20 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4A5D3F0F2902CAE0007069DD /* Build configuration list for PBXNativeTarget "MultiRecTimerforiPad (iOS)" */;
 			buildPhases = (
+				63DE90CA067F2B87CC6D2E66 /* [CP] Check Pods Manifest.lock */,
 				4A5D3EFA2902CAE0007069DD /* Sources */,
 				4A5D3EFB2902CAE0007069DD /* Frameworks */,
 				4A5D3EFC2902CAE0007069DD /* Resources */,
+				DC218B8BDDEB19A579220D0E /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = "MultiRecTimerforiPad (iOS)";
+			packageProductDependencies = (
+				4AD6B0342906B535004B051A /* FirebaseAnalytics */,
+			);
 			productName = "MultiRecTimerforiPad (iOS)";
 			productReference = 4A5D3EFE2902CAE0007069DD /* MultiRecTimerforiPad.app */;
 			productType = "com.apple.product-type.application";
@@ -123,7 +190,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
-				LastUpgradeCheck = 1340;
+				LastUpgradeCheck = 1400;
 				TargetAttributes = {
 					4A5D3EFD2902CAE0007069DD = {
 						CreatedOnToolsVersion = 13.4.1;
@@ -142,6 +209,9 @@
 				Base,
 			);
 			mainGroup = 4A5D3EF12902CADE007069DD;
+			packageReferences = (
+				4AD6B0332906B535004B051A /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = 4A5D3EFF2902CAE0007069DD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -158,6 +228,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A5D3F0B2902CAE0007069DD /* Assets.xcassets in Resources */,
+				4AD6B04729097281004B051A /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -166,17 +237,67 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A5D3F0C2902CAE0007069DD /* Assets.xcassets in Resources */,
+				4AD6B04829097281004B051A /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		63DE90CA067F2B87CC6D2E66 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MultiRecTimerforiPad (iOS)-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DC218B8BDDEB19A579220D0E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MultiRecTimerforiPad (iOS)/Pods-MultiRecTimerforiPad (iOS)-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MultiRecTimerforiPad (iOS)/Pods-MultiRecTimerforiPad (iOS)-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MultiRecTimerforiPad (iOS)/Pods-MultiRecTimerforiPad (iOS)-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		4A5D3EFA2902CAE0007069DD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AB7F2C42902CE0B0051849E /* RirekiView.swift in Sources */,
+				4AB7F2C22902CE0B0051849E /* View.swift in Sources */,
+				4AB7F2B92902CDE50051849E /* FirstLaunch.swift in Sources */,
+				4AB7F2B72902CDE50051849E /* SoundAlert.swift in Sources */,
+				4AB7F2B52902CDE50051849E /* StopWatchClass.swift in Sources */,
 				4A5D3F092902CAE0007069DD /* ContentView.swift in Sources */,
+				4AB7F2BB2902CDE50051849E /* StoreView.swift in Sources */,
+				4AB7F2C02902CE0B0051849E /* Rireki.swift in Sources */,
 				4A5D3F072902CAE0007069DD /* MultiRecTimerforiPadApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -185,7 +306,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AB7F2C52902CE0B0051849E /* RirekiView.swift in Sources */,
+				4AB7F2C32902CE0B0051849E /* View.swift in Sources */,
+				4AB7F2BA2902CDE50051849E /* FirstLaunch.swift in Sources */,
+				4AB7F2B82902CDE50051849E /* SoundAlert.swift in Sources */,
+				4AB7F2B62902CDE50051849E /* StopWatchClass.swift in Sources */,
 				4A5D3F0A2902CAE0007069DD /* ContentView.swift in Sources */,
+				4AB7F2BC2902CDE50051849E /* StoreView.swift in Sources */,
+				4AB7F2C12902CE0B0051849E /* Rireki.swift in Sources */,
 				4A5D3F082902CAE0007069DD /* MultiRecTimerforiPadApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -226,6 +354,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -284,6 +413,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -304,61 +434,79 @@
 		};
 		4A5D3F102902CAE0007069DD /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B1DEEDC96B232932FF204DD2 /* Pods-MultiRecTimerforiPad (iOS).debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "MultiRecTimerforiPad (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 8;
 				DEVELOPMENT_TEAM = TGPVYURU8B;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_FILE = "MultiRecTimerforiPad--iOS--Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = MultiRecTimer;
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "「許可」するとあなたに無関係な広告が表示されにくくなります。（許可しなくてもアプリの全ての機能は利用可能です。）";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.haya.mrtfipad.MultiRecTimerforiPad;
 				PRODUCT_NAME = MultiRecTimerforiPad;
 				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
 		4A5D3F112902CAE0007069DD /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5743D62868A113C9C537B81D /* Pods-MultiRecTimerforiPad (iOS).release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "MultiRecTimerforiPad (iOS).entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 8;
 				DEVELOPMENT_TEAM = TGPVYURU8B;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_FILE = "MultiRecTimerforiPad--iOS--Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = MultiRecTimer;
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "「許可」するとあなたに無関係な広告が表示されにくくなります。（許可しなくてもアプリの全ての機能は利用可能です。）";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.haya.mrtfipad.MultiRecTimerforiPad;
 				PRODUCT_NAME = MultiRecTimerforiPad;
 				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -369,9 +517,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = TGPVYURU8B;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -397,9 +547,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = TGPVYURU8B;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -450,6 +602,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		4AD6B0332906B535004B051A /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 9.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		4AD6B0342906B535004B051A /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 4AD6B0332906B535004B051A /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 4A5D3EF22902CADE007069DD /* Project object */;
 }
